@@ -80,7 +80,6 @@ void readInput()
 	}
 }
 
-
 void turnLeft()
 {
 	servo1.write(180); // Turned to 0 degrees
