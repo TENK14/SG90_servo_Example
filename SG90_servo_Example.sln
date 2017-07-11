@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{1DCCFD7F-901F-4BC9-BB0C-52BA3943DD01}"
 	ProjectSection(SolutionItems) = preProject
 		Doc\SG90-scheme.png = Doc\SG90-scheme.png
+		Doc\SG90Servo.pdf = Doc\SG90Servo.pdf
 	EndProjectSection
 EndProject
 Global
